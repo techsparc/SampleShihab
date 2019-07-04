@@ -36,7 +36,7 @@ public class Human {
 	 */
 	public void human() {
 
-		String i = "avengers";
+		String i = "Guardian of the Galaxies";
 		String j = "AVENGERS";
 
 
